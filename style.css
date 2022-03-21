@@ -1,0 +1,75 @@
+.main {
+    width: 60%;
+    margin-right: auto;
+    margin-left: auto;
+}
+.mt-10 {
+    margin: 10px 0px;
+}
+.box1 {
+    width: 15%;
+   
+}
+.box1 a{
+    display: block;
+}
+.clear {
+    clear: both;
+}
+.box2{
+
+    width: 100%;
+    height: 200px;
+    border: 1px solid #000;
+}
+.box3{
+    text-align: center;
+    width: 100%;
+    height: 250px;
+    border: 1px solid #000;
+}
+.box4{
+    display: inline-block;
+    width: 100%;
+    border: 1px solid #000;
+    float: left;
+}
+
+.main .table1,
+.main .table2 {
+    width: 50%;  
+    float: left;
+}
+.table1 td {
+    height: 200px;
+    border: 1px solid#000;
+}
+.table2 td {
+    height: 220px;
+    border: 1px solid#000;
+}
+td {
+    margin-top: 10px;
+    box-shadow: 0 0 2px #ccc;
+}
+.box4-1 {
+    width: 100%;
+}
+.table3 td{
+    border: 1px solid #000;
+}
+.table3 {
+    border-collapse: collapse;
+    width: 100%;
+}
+.table4 {
+    border: 1px solid #000;
+    height: 420px;
+}
+.box3 img {
+   
+    width: 40%;
+    height: 250px;
+}
+
+
